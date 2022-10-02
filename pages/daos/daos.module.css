@@ -1,0 +1,50 @@
+.container {
+  padding-top: 176px;
+  min-height: 100vh;
+}
+
+.title {
+  width: 760px;
+  max-width: 95%;
+}
+
+.tabtitle {
+  width: 60rem;
+  justify-content: space-between;
+}
+
+.divider {
+  height: 1px;
+  width: 960px;
+  max-width: 95%;
+  background: #ebebeb;
+}
+
+.tabs {
+  width: 960px;
+}
+
+.image {
+  width: 280px;
+  height: 160px;
+  border-radius: 12px;
+  object-fit: cover;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.image img {
+  object-fit: cover;
+}
+
+.slideshow-container {
+  width: 960px;
+  max-width: 95%;
+}
+
+.event-image {
+  width: 160px;
+  border-radius: 12px;
+  overflow: hidden;
+  object-fit: cover;
+}

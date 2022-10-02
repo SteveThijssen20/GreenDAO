@@ -1,0 +1,10 @@
+.header {
+  position: fixed;
+  background: #5A61DF;
+  box-shadow: 0px 12px 12px -6px rgba(0, 0, 0, 0.16), 0px 0px 1px rgba(0, 0, 0, 0.4);
+}
+
+.logo {
+  display: inline-flex;
+  cursor: pointer;
+}
