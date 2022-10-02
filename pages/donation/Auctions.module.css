@@ -1,0 +1,46 @@
+.container {
+  padding-top: 176px;
+  min-height: 100vh;
+}
+
+.title {
+  width: 720px;
+  max-width: 95%;
+}
+
+.divider {
+  height: 1px;
+  width: 960px;
+  max-width: 95%;
+  background: #ebebeb;
+}
+
+.tabs {
+  width: 960px;
+}
+
+.image {
+  width: 280px;
+  height: 160px;
+  border-radius: 12px;
+  object-fit: cover;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.image img {
+  object-fit: cover;
+}
+
+.slideshow-container {
+  width: 960px;
+  max-width: 95%;
+}
+
+.nft-image {
+  height: 160px;
+  width: 160px;
+  border-radius: 12px;
+  overflow: hidden;
+  object-fit: cover;
+}
